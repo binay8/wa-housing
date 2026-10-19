@@ -3,4 +3,4 @@ __pycache__/
 *.pyc
 
 # Census API import script
-code/census_import.py
+code/census_import_script.ipynb
