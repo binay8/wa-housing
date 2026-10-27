@@ -1,4 +1,43 @@
 County,MedianIncome,state,county,Year,CountyFIPS
+"Grays Harbor County, Washington",43538,53,027,2015,53027
+"Wahkiakum County, Washington",44485,53,069,2015,53069
+"Grant County, Washington",48714,53,025,2015,53025
+"Snohomish County, Washington",70722,53,061,2015,53061
+"Klickitat County, Washington",48319,53,039,2015,53039
+"Okanogan County, Washington",40730,53,047,2015,53047
+"Kittitas County, Washington",46458,53,037,2015,53037
+"Benton County, Washington",60251,53,005,2015,53005
+"Clark County, Washington",60756,53,011,2015,53011
+"Asotin County, Washington",44394,53,003,2015,53003
+"Adams County, Washington",46564,53,001,2015,53001
+"Garfield County, Washington",45855,53,023,2015,53023
+"Mason County, Washington",50406,53,045,2015,53045
+"Skagit County, Washington",54129,53,057,2015,53057
+"Stevens County, Washington",41978,53,065,2015,53065
+"Spokane County, Washington",50079,53,063,2015,53063
+"Lincoln County, Washington",46069,53,043,2015,53043
+"Chelan County, Washington",51837,53,007,2015,53007
+"Jefferson County, Washington",49279,53,031,2015,53031
+"Kitsap County, Washington",62941,53,035,2015,53035
+"King County, Washington",75302,53,033,2015,53033
+"Pacific County, Washington",37684,53,049,2015,53049
+"Pend Oreille County, Washington",40599,53,051,2015,53051
+"San Juan County, Washington",55960,53,055,2015,53055
+"Skamania County, Washington",52374,53,059,2015,53059
+"Whitman County, Washington",36631,53,075,2015,53075
+"Yakima County, Washington",44749,53,077,2015,53077
+"Clallam County, Washington",47253,53,009,2015,53009
+"Cowlitz County, Washington",47452,53,015,2015,53015
+"Ferry County, Washington",38125,53,019,2015,53019
+"Lewis County, Washington",44100,53,041,2015,53041
+"Douglas County, Washington",53636,53,017,2015,53017
+"Island County, Washington",58815,53,029,2015,53029
+"Pierce County, Washington",59953,53,053,2015,53053
+"Franklin County, Washington",56980,53,021,2015,53021
+"Walla Walla County, Washington",47946,53,071,2015,53071
+"Whatcom County, Washington",53145,53,073,2015,53073
+"Thurston County, Washington",61677,53,067,2015,53067
+"Columbia County, Washington",38581,53,013,2015,53013
 "Okanogan County, Washington",41158,53,047,2016,53047
 "Kittitas County, Washington",47898,53,037,2016,53037
 "Benton County, Washington",61147,53,005,2016,53005
@@ -77,13 +116,6 @@ County,MedianIncome,state,county,Year,CountyFIPS
 "Grant County, Washington",52382,53,025,2017,53025
 "Whatcom County, Washington",56419,53,073,2017,53073
 "Snohomish County, Washington",78020,53,061,2017,53061
-"Thurston County, Washington",69592,53,067,2018,53067
-"Columbia County, Washington",51111,53,013,2018,53013
-"Klickitat County, Washington",54056,53,039,2018,53039
-"Grays Harbor County, Washington",47770,53,027,2018,53027
-"Wahkiakum County, Washington",54085,53,069,2018,53069
-"Grant County, Washington",54982,53,025,2018,53025
-"Snohomish County, Washington",82751,53,061,2018,53061
 "Okanogan County, Washington",45808,53,047,2018,53047
 "Kittitas County, Washington",55193,53,037,2018,53037
 "Benton County, Washington",65650,53,005,2018,53005
@@ -116,6 +148,13 @@ County,MedianIncome,state,county,Year,CountyFIPS
 "Walla Walla County, Washington",56533,53,071,2018,53071
 "Whatcom County, Washington",59285,53,073,2018,53073
 "Kitsap County, Washington",71610,53,035,2018,53035
+"Thurston County, Washington",69592,53,067,2018,53067
+"Columbia County, Washington",51111,53,013,2018,53013
+"Klickitat County, Washington",54056,53,039,2018,53039
+"Grays Harbor County, Washington",47770,53,027,2018,53027
+"Wahkiakum County, Washington",54085,53,069,2018,53069
+"Grant County, Washington",54982,53,025,2018,53025
+"Snohomish County, Washington",82751,53,061,2018,53061
 "Thurston County, Washington",72003,53,067,2019,53067
 "Columbia County, Washington",53423,53,013,2019,53013
 "Klickitat County, Washington",55773,53,039,2019,53039
