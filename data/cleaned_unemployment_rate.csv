@@ -1,0 +1,391 @@
+fips,county,region,year,unemployment_rate
+53001,Adams,Eastern WA,2015,7.0
+53001,Adams,Eastern WA,2016,6.9
+53001,Adams,Eastern WA,2017,6.2
+53001,Adams,Eastern WA,2018,6.0
+53001,Adams,Eastern WA,2019,6.3
+53001,Adams,Eastern WA,2020,7.5
+53001,Adams,Eastern WA,2021,5.5
+53001,Adams,Eastern WA,2022,4.8
+53001,Adams,Eastern WA,2023,4.8
+53001,Adams,Eastern WA,2024,4.8
+53003,Asotin,Other,2015,4.8
+53003,Asotin,Other,2016,5.1
+53003,Asotin,Other,2017,4.3
+53003,Asotin,Other,2018,4.6
+53003,Asotin,Other,2019,4.4
+53003,Asotin,Other,2020,5.2
+53003,Asotin,Other,2021,3.7
+53003,Asotin,Other,2022,3.5
+53003,Asotin,Other,2023,3.3
+53003,Asotin,Other,2024,3.5
+53005,Benton,Other,2015,6.7
+53005,Benton,Other,2016,6.6
+53005,Benton,Other,2017,5.8
+53005,Benton,Other,2018,5.7
+53005,Benton,Other,2019,5.7
+53005,Benton,Other,2020,8.4
+53005,Benton,Other,2021,5.5
+53005,Benton,Other,2022,4.6
+53005,Benton,Other,2023,4.6
+53005,Benton,Other,2024,4.7
+53007,Chelan,Other,2015,5.6
+53007,Chelan,Other,2016,5.9
+53007,Chelan,Other,2017,5.1
+53007,Chelan,Other,2018,4.9
+53007,Chelan,Other,2019,5.3
+53007,Chelan,Other,2020,8.4
+53007,Chelan,Other,2021,5.2
+53007,Chelan,Other,2022,4.3
+53007,Chelan,Other,2023,4.3
+53007,Chelan,Other,2024,4.6
+53009,Clallam,Other,2015,8.2
+53009,Clallam,Other,2016,7.1
+53009,Clallam,Other,2017,6.4
+53009,Clallam,Other,2018,6.2
+53009,Clallam,Other,2019,6.4
+53009,Clallam,Other,2020,9.4
+53009,Clallam,Other,2021,5.8
+53009,Clallam,Other,2022,4.8
+53009,Clallam,Other,2023,4.6
+53009,Clallam,Other,2024,5.0
+53011,Clark,Other,2015,6.5
+53011,Clark,Other,2016,6.0
+53011,Clark,Other,2017,5.0
+53011,Clark,Other,2018,4.8
+53011,Clark,Other,2019,4.8
+53011,Clark,Other,2020,8.1
+53011,Clark,Other,2021,5.0
+53011,Clark,Other,2022,3.9
+53011,Clark,Other,2023,3.9
+53011,Clark,Other,2024,4.3
+53013,Columbia,Other,2015,6.6
+53013,Columbia,Other,2016,6.0
+53013,Columbia,Other,2017,5.3
+53013,Columbia,Other,2018,5.3
+53013,Columbia,Other,2019,4.7
+53013,Columbia,Other,2020,6.2
+53013,Columbia,Other,2021,4.2
+53013,Columbia,Other,2022,3.9
+53013,Columbia,Other,2023,3.6
+53013,Columbia,Other,2024,4.1
+53015,Cowlitz,Other,2015,7.8
+53015,Cowlitz,Other,2016,7.1
+53015,Cowlitz,Other,2017,6.1
+53015,Cowlitz,Other,2018,6.1
+53015,Cowlitz,Other,2019,6.2
+53015,Cowlitz,Other,2020,9.1
+53015,Cowlitz,Other,2021,6.0
+53015,Cowlitz,Other,2022,4.8
+53015,Cowlitz,Other,2023,4.8
+53015,Cowlitz,Other,2024,5.1
+53017,Douglas,Other,2015,6.5
+53017,Douglas,Other,2016,7.2
+53017,Douglas,Other,2017,6.0
+53017,Douglas,Other,2018,5.8
+53017,Douglas,Other,2019,6.1
+53017,Douglas,Other,2020,8.7
+53017,Douglas,Other,2021,5.6
+53017,Douglas,Other,2022,4.8
+53017,Douglas,Other,2023,4.7
+53017,Douglas,Other,2024,5.0
+53019,Ferry,Eastern WA,2015,10.3
+53019,Ferry,Eastern WA,2016,9.7
+53019,Ferry,Eastern WA,2017,10.4
+53019,Ferry,Eastern WA,2018,11.2
+53019,Ferry,Eastern WA,2019,10.8
+53019,Ferry,Eastern WA,2020,10.7
+53019,Ferry,Eastern WA,2021,7.6
+53019,Ferry,Eastern WA,2022,7.4
+53019,Ferry,Eastern WA,2023,7.1
+53019,Ferry,Eastern WA,2024,7.3
+53021,Franklin,Other,2015,7.7
+53021,Franklin,Other,2016,7.0
+53021,Franklin,Other,2017,6.0
+53021,Franklin,Other,2018,5.9
+53021,Franklin,Other,2019,6.2
+53021,Franklin,Other,2020,8.2
+53021,Franklin,Other,2021,5.8
+53021,Franklin,Other,2022,5.0
+53021,Franklin,Other,2023,5.1
+53021,Franklin,Other,2024,5.2
+53023,Garfield,Other,2015,6.2
+53023,Garfield,Other,2016,5.4
+53023,Garfield,Other,2017,4.9
+53023,Garfield,Other,2018,5.5
+53023,Garfield,Other,2019,5.4
+53023,Garfield,Other,2020,7.8
+53023,Garfield,Other,2021,5.3
+53023,Garfield,Other,2022,5.6
+53023,Garfield,Other,2023,4.7
+53023,Garfield,Other,2024,4.4
+53025,Grant,Other,2015,7.4
+53025,Grant,Other,2016,7.4
+53025,Grant,Other,2017,6.5
+53025,Grant,Other,2018,6.6
+53025,Grant,Other,2019,7.3
+53025,Grant,Other,2020,8.9
+53025,Grant,Other,2021,6.5
+53025,Grant,Other,2022,5.4
+53025,Grant,Other,2023,5.3
+53025,Grant,Other,2024,5.5
+53027,Grays Harbor,Other,2015,9.1
+53027,Grays Harbor,Other,2016,8.1
+53027,Grays Harbor,Other,2017,6.9
+53027,Grays Harbor,Other,2018,6.7
+53027,Grays Harbor,Other,2019,7.1
+53027,Grays Harbor,Other,2020,11.1
+53027,Grays Harbor,Other,2021,7.0
+53027,Grays Harbor,Other,2022,5.6
+53027,Grays Harbor,Other,2023,5.9
+53027,Grays Harbor,Other,2024,6.1
+53029,Island,Other,2015,6.2
+53029,Island,Other,2016,6.0
+53029,Island,Other,2017,5.4
+53029,Island,Other,2018,5.6
+53029,Island,Other,2019,5.4
+53029,Island,Other,2020,8.3
+53029,Island,Other,2021,5.5
+53029,Island,Other,2022,4.4
+53029,Island,Other,2023,4.2
+53029,Island,Other,2024,4.6
+53031,Jefferson,Other,2015,7.2
+53031,Jefferson,Other,2016,7.2
+53031,Jefferson,Other,2017,6.3
+53031,Jefferson,Other,2018,6.1
+53031,Jefferson,Other,2019,6.0
+53031,Jefferson,Other,2020,9.5
+53031,Jefferson,Other,2021,6.0
+53031,Jefferson,Other,2022,4.9
+53031,Jefferson,Other,2023,4.9
+53031,Jefferson,Other,2024,5.1
+53033,King,Seattle metro,2015,4.0
+53033,King,Seattle metro,2016,3.9
+53033,King,Seattle metro,2017,3.7
+53033,King,Seattle metro,2018,3.3
+53033,King,Seattle metro,2019,2.8
+53033,King,Seattle metro,2020,8.4
+53033,King,Seattle metro,2021,4.7
+53033,King,Seattle metro,2022,3.5
+53033,King,Seattle metro,2023,3.9
+53033,King,Seattle metro,2024,4.2
+53035,Kitsap,Other,2015,5.6
+53035,Kitsap,Other,2016,5.7
+53035,Kitsap,Other,2017,5.1
+53035,Kitsap,Other,2018,4.9
+53035,Kitsap,Other,2019,4.9
+53035,Kitsap,Other,2020,7.8
+53035,Kitsap,Other,2021,4.9
+53035,Kitsap,Other,2022,4.0
+53035,Kitsap,Other,2023,4.0
+53035,Kitsap,Other,2024,4.4
+53037,Kittitas,Other,2015,6.3
+53037,Kittitas,Other,2016,5.7
+53037,Kittitas,Other,2017,5.1
+53037,Kittitas,Other,2018,5.4
+53037,Kittitas,Other,2019,5.3
+53037,Kittitas,Other,2020,8.4
+53037,Kittitas,Other,2021,5.4
+53037,Kittitas,Other,2022,4.6
+53037,Kittitas,Other,2023,4.4
+53037,Kittitas,Other,2024,4.7
+53039,Klickitat,Other,2015,7.2
+53039,Klickitat,Other,2016,6.7
+53039,Klickitat,Other,2017,5.9
+53039,Klickitat,Other,2018,5.8
+53039,Klickitat,Other,2019,6.0
+53039,Klickitat,Other,2020,7.9
+53039,Klickitat,Other,2021,5.7
+53039,Klickitat,Other,2022,4.9
+53039,Klickitat,Other,2023,4.8
+53039,Klickitat,Other,2024,5.0
+53041,Lewis,Other,2015,8.5
+53041,Lewis,Other,2016,7.9
+53041,Lewis,Other,2017,6.7
+53041,Lewis,Other,2018,6.6
+53041,Lewis,Other,2019,6.5
+53041,Lewis,Other,2020,9.3
+53041,Lewis,Other,2021,6.1
+53041,Lewis,Other,2022,5.3
+53041,Lewis,Other,2023,5.2
+53041,Lewis,Other,2024,5.6
+53043,Lincoln,Eastern WA,2015,5.9
+53043,Lincoln,Eastern WA,2016,6.3
+53043,Lincoln,Eastern WA,2017,5.6
+53043,Lincoln,Eastern WA,2018,5.7
+53043,Lincoln,Eastern WA,2019,5.9
+53043,Lincoln,Eastern WA,2020,7.5
+53043,Lincoln,Eastern WA,2021,5.4
+53043,Lincoln,Eastern WA,2022,5.4
+53043,Lincoln,Eastern WA,2023,5.4
+53043,Lincoln,Eastern WA,2024,6.0
+53045,Mason,Other,2015,7.9
+53045,Mason,Other,2016,7.3
+53045,Mason,Other,2017,6.4
+53045,Mason,Other,2018,6.3
+53045,Mason,Other,2019,6.4
+53045,Mason,Other,2020,9.5
+53045,Mason,Other,2021,6.4
+53045,Mason,Other,2022,5.3
+53045,Mason,Other,2023,5.1
+53045,Mason,Other,2024,5.5
+53047,Okanogan,Other,2015,7.0
+53047,Okanogan,Other,2016,6.7
+53047,Okanogan,Other,2017,6.9
+53047,Okanogan,Other,2018,6.7
+53047,Okanogan,Other,2019,7.0
+53047,Okanogan,Other,2020,8.8
+53047,Okanogan,Other,2021,6.3
+53047,Okanogan,Other,2022,5.6
+53047,Okanogan,Other,2023,5.3
+53047,Okanogan,Other,2024,5.3
+53049,Pacific,Other,2015,9.1
+53049,Pacific,Other,2016,8.5
+53049,Pacific,Other,2017,7.4
+53049,Pacific,Other,2018,7.5
+53049,Pacific,Other,2019,7.6
+53049,Pacific,Other,2020,11.1
+53049,Pacific,Other,2021,7.7
+53049,Pacific,Other,2022,6.3
+53049,Pacific,Other,2023,6.0
+53049,Pacific,Other,2024,6.2
+53051,Pend Oreille,Eastern WA,2015,9.8
+53051,Pend Oreille,Eastern WA,2016,8.4
+53051,Pend Oreille,Eastern WA,2017,7.1
+53051,Pend Oreille,Eastern WA,2018,6.9
+53051,Pend Oreille,Eastern WA,2019,7.8
+53051,Pend Oreille,Eastern WA,2020,10.1
+53051,Pend Oreille,Eastern WA,2021,7.1
+53051,Pend Oreille,Eastern WA,2022,5.9
+53051,Pend Oreille,Eastern WA,2023,5.7
+53051,Pend Oreille,Eastern WA,2024,6.0
+53053,Pierce,Seattle metro,2015,6.0
+53053,Pierce,Seattle metro,2016,4.8
+53053,Pierce,Seattle metro,2017,4.5
+53053,Pierce,Seattle metro,2018,4.1
+53053,Pierce,Seattle metro,2019,3.6
+53053,Pierce,Seattle metro,2020,9.4
+53053,Pierce,Seattle metro,2021,5.4
+53053,Pierce,Seattle metro,2022,4.3
+53053,Pierce,Seattle metro,2023,4.4
+53053,Pierce,Seattle metro,2024,4.6
+53055,San Juan,Other,2015,4.9
+53055,San Juan,Other,2016,4.8
+53055,San Juan,Other,2017,4.1
+53055,San Juan,Other,2018,4.2
+53055,San Juan,Other,2019,4.1
+53055,San Juan,Other,2020,8.1
+53055,San Juan,Other,2021,4.9
+53055,San Juan,Other,2022,3.6
+53055,San Juan,Other,2023,3.4
+53055,San Juan,Other,2024,4.0
+53057,Skagit,Other,2015,6.8
+53057,Skagit,Other,2016,6.6
+53057,Skagit,Other,2017,5.6
+53057,Skagit,Other,2018,5.5
+53057,Skagit,Other,2019,5.8
+53057,Skagit,Other,2020,9.9
+53057,Skagit,Other,2021,6.1
+53057,Skagit,Other,2022,4.7
+53057,Skagit,Other,2023,4.5
+53057,Skagit,Other,2024,4.9
+53059,Skamania,Other,2015,7.5
+53059,Skamania,Other,2016,6.5
+53059,Skamania,Other,2017,5.8
+53059,Skamania,Other,2018,5.4
+53059,Skamania,Other,2019,5.3
+53059,Skamania,Other,2020,8.5
+53059,Skamania,Other,2021,5.6
+53059,Skamania,Other,2022,4.2
+53059,Skamania,Other,2023,4.1
+53059,Skamania,Other,2024,4.4
+53061,Snohomish,Seattle metro,2015,4.4
+53061,Snohomish,Seattle metro,2016,4.2
+53061,Snohomish,Seattle metro,2017,4.0
+53061,Snohomish,Seattle metro,2018,3.6
+53061,Snohomish,Seattle metro,2019,3.1
+53061,Snohomish,Seattle metro,2020,9.5
+53061,Snohomish,Seattle metro,2021,5.5
+53061,Snohomish,Seattle metro,2022,4.1
+53061,Snohomish,Seattle metro,2023,4.1
+53061,Snohomish,Seattle metro,2024,4.3
+53063,Spokane,Eastern WA,2015,6.6
+53063,Spokane,Eastern WA,2016,6.0
+53063,Spokane,Eastern WA,2017,5.4
+53063,Spokane,Eastern WA,2018,5.3
+53063,Spokane,Eastern WA,2019,5.4
+53063,Spokane,Eastern WA,2020,8.4
+53063,Spokane,Eastern WA,2021,5.0
+53063,Spokane,Eastern WA,2022,4.1
+53063,Spokane,Eastern WA,2023,4.0
+53063,Spokane,Eastern WA,2024,4.4
+53065,Stevens,Eastern WA,2015,9.0
+53065,Stevens,Eastern WA,2016,8.3
+53065,Stevens,Eastern WA,2017,7.4
+53065,Stevens,Eastern WA,2018,7.4
+53065,Stevens,Eastern WA,2019,7.4
+53065,Stevens,Eastern WA,2020,9.3
+53065,Stevens,Eastern WA,2021,6.4
+53065,Stevens,Eastern WA,2022,5.8
+53065,Stevens,Eastern WA,2023,5.7
+53065,Stevens,Eastern WA,2024,5.9
+53067,Thurston,Other,2015,6.0
+53067,Thurston,Other,2016,5.8
+53067,Thurston,Other,2017,5.2
+53067,Thurston,Other,2018,5.1
+53067,Thurston,Other,2019,5.2
+53067,Thurston,Other,2020,8.4
+53067,Thurston,Other,2021,5.1
+53067,Thurston,Other,2022,4.1
+53067,Thurston,Other,2023,4.0
+53067,Thurston,Other,2024,4.4
+53069,Wahkiakum,Other,2015,9.0
+53069,Wahkiakum,Other,2016,9.1
+53069,Wahkiakum,Other,2017,7.6
+53069,Wahkiakum,Other,2018,7.1
+53069,Wahkiakum,Other,2019,7.0
+53069,Wahkiakum,Other,2020,9.0
+53069,Wahkiakum,Other,2021,6.8
+53069,Wahkiakum,Other,2022,6.3
+53069,Wahkiakum,Other,2023,6.6
+53069,Wahkiakum,Other,2024,7.3
+53071,Walla Walla,Other,2015,5.9
+53071,Walla Walla,Other,2016,5.4
+53071,Walla Walla,Other,2017,5.0
+53071,Walla Walla,Other,2018,4.9
+53071,Walla Walla,Other,2019,5.1
+53071,Walla Walla,Other,2020,6.7
+53071,Walla Walla,Other,2021,4.5
+53071,Walla Walla,Other,2022,4.0
+53071,Walla Walla,Other,2023,3.9
+53071,Walla Walla,Other,2024,4.1
+53073,Whatcom,Other,2015,6.0
+53073,Whatcom,Other,2016,5.7
+53073,Whatcom,Other,2017,4.9
+53073,Whatcom,Other,2018,4.8
+53073,Whatcom,Other,2019,5.0
+53073,Whatcom,Other,2020,9.0
+53073,Whatcom,Other,2021,5.4
+53073,Whatcom,Other,2022,4.1
+53073,Whatcom,Other,2023,4.0
+53073,Whatcom,Other,2024,4.4
+53075,Whitman,Eastern WA,2015,4.9
+53075,Whitman,Eastern WA,2016,5.0
+53075,Whitman,Eastern WA,2017,4.4
+53075,Whitman,Eastern WA,2018,4.5
+53075,Whitman,Eastern WA,2019,4.4
+53075,Whitman,Eastern WA,2020,5.5
+53075,Whitman,Eastern WA,2021,3.3
+53075,Whitman,Eastern WA,2022,3.7
+53075,Whitman,Eastern WA,2023,3.5
+53075,Whitman,Eastern WA,2024,3.9
+53077,Yakima,Other,2015,8.2
+53077,Yakima,Other,2016,7.7
+53077,Yakima,Other,2017,6.9
+53077,Yakima,Other,2018,6.6
+53077,Yakima,Other,2019,7.4
+53077,Yakima,Other,2020,9.5
+53077,Yakima,Other,2021,6.6
+53077,Yakima,Other,2022,5.6
+53077,Yakima,Other,2023,5.6
+53077,Yakima,Other,2024,5.9
