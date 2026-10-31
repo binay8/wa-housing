@@ -53,7 +53,7 @@ One annual ZHVI value is missing for Columbia County in 2015. This observation i
 - `reports/`: Project documentation and reports
 - `requirements.txt`: Python dependencies
 
-### Main Notebooks
+## Main Notebooks
 
 - [`01_data_preparation.ipynb`](code/01_data_preparation.ipynb) - Data cleaning, integration, and preparation
 - [`02_exploratory_data_analysis.ipynb`](code/02_exploratory_data_analysis.ipynb) - Housing value exploratory analysis
@@ -61,4 +61,5 @@ One annual ZHVI value is missing for Columbia County in 2015. This observation i
 - [`EDA_unemployment rate.ipynb`](code/EDA_unemployment%20rate.ipynb) - Unemployment rate exploratory analysis (to be considolated)
 - [`EDA_interest rate.ipynb`](code/EDA_interest%20rate.ipynb) - Mortgage interest rate exploratory analysis (to be considolated)
 
-
+## Acknowledgements
+Python libraries used include pathlib, pandas, matplotlib.pyplot, numpy, seaborn, sklearn, statsmodels and scipy
