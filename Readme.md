@@ -2,7 +2,7 @@
 
 **Seattle University | DATA 5100 - Foundations of Data Science**
 
-**Team Members:** Binay Raut and Quynh Giang Tran
+**Authors:** Binay Raut and Quynh Giang Tran
 
 ## Project Overview
 
@@ -16,7 +16,7 @@ Our goal is to identify statistical relationships between economic indicators an
 
 1. Median Household Income: Is median household income significantly associated with home values in Washington State?
 2. Unemployment Rate: Is the unemployment rate significantly associated with home values in Washington State?
-3. Multiple Regression: Which economic predictors—median household income, unemployment rate, and mortgage interest rate—have statistically significant associations with home values after adjusting for the other predictors?
+3. Multiple Regression: Which economic predictors: median household income, unemployment rate, and mortgage interest rate have statistically significant associations with home values after adjusting for the other predictors?
 4. Regional Classification: Does including WSDOT regional classification improve the explanatory performance of a regression model beyond median household income, unemployment rates, and mortgage interest rates?
 
 ## Data
@@ -48,29 +48,17 @@ One annual ZHVI value is missing for Columbia County in 2015. This observation i
 
 ## Repository Structure
 
-- `code/` — Jupyter notebooks for data preparation and exploratory analysis
-- `data/` — Original, cleaned, and merged datasets
-- `reports/` — Project documentation and reports
-- `requirements.txt` — Python dependencies
+- `code/`: Jupyter notebooks for data preparation and exploratory analysis
+- `data/`: Original, cleaned, and merged datasets
+- `reports/`: Project documentation and reports
+- `requirements.txt`: Python dependencies
 
 ### Main Notebooks
 
-- [`01_data_preparation.ipynb`](code/01_data_preparation.ipynb) — Data cleaning, integration, and preparation
-- [`02_exploratory_data_analysis.ipynb`](code/02_exploratory_data_analysis.ipynb) — Housing value exploratory analysis
-- [`03_statistical_analysis.ipynb`](code/03_statistical_analysis.ipynb) — Housing value statistical analysis
-- [`EDA_unemployment rate.ipynb`](code/EDA_unemployment%20rate.ipynb) — Unemployment rate exploratory analysis (to be considolated)
-- [`EDA_interest rate.ipynb`](code/EDA_interest%20rate.ipynb) — Mortgage interest rate exploratory analysis (to be considolated)
+- [`01_data_preparation.ipynb`](code/01_data_preparation.ipynb) - Data cleaning, integration, and preparation
+- [`02_exploratory_data_analysis.ipynb`](code/02_exploratory_data_analysis.ipynb) - Housing value exploratory analysis
+- [`03_statistical_analysis.ipynb`](code/03_statistical_analysis.ipynb) - Housing value statistical analysis
+- [`EDA_unemployment rate.ipynb`](code/EDA_unemployment%20rate.ipynb) - Unemployment rate exploratory analysis (to be considolated)
+- [`EDA_interest rate.ipynb`](code/EDA_interest%20rate.ipynb) - Mortgage interest rate exploratory analysis (to be considolated)
 
-## Analytical Approach
 
-We use Python, pandas, NumPy, Matplotlib, and Seaborn to prepare, summarize, and visualize the data.
-
-Our statistical analysis begins with simple linear regression examining the individual associations of median household income and unemployment rates with housing values. We will then develop multiple regression models incorporating additional economic predictors and WSDOT regional classification.
-
-We plan to compare regression models using R², adjusted R², RMSE, and residual diagnostics.
-
-## Project Status
-
-Data collection, cleaning, integration, and initial exploratory data analysis have been completed or started. An initial income-based linear regression has also been fitted.
-
-Additional regression comparisons, regional statistical analysis, model diagnostics, and final reporting are in progress.
