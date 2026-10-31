@@ -4,4 +4,3 @@ __pycache__/
 
 # Census API import script
 code/data_import_script.ipynb
-code/03_statistical_analysis.ipynb
